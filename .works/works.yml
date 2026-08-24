@@ -28,5 +28,8 @@ settings:
       currency: USD
       weekly_price: 100
       monthly_price: 300
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/demo-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/demo-data/master/pages/logo-dark.png
 auth:
   credentials: true
