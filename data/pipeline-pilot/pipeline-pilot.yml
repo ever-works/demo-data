@@ -1,0 +1,24 @@
+name: Pipeline Pilot
+description: >-
+  A fictional CI orchestration tool included as demo data for the Ever Works platform. Not a real product.
+source_url: https://demo.ever.works/items/pipeline-pilot
+category: Developer Tools
+tags:
+  - demo
+  - automation
+  - open-source
+markdown: |-
+  ## Overview
+
+  Pipeline Pilot is an **invented example listing** used to demonstrate the Developer Tools category.
+
+  ## Features
+
+  - Declarative pipeline definitions
+  - Parallel matrix builds
+  - Rollback on failed deploys
+
+  ## Note
+
+  This is demo content. Pipeline Pilot does not exist.
+updated_at: 2026-08-24 08:45

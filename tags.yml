@@ -1,0 +1,12 @@
+- id: demo
+  name: Demo
+- id: open-source
+  name: Open Source
+- id: free-tier
+  name: Free Tier
+- id: self-hosted
+  name: Self Hosted
+- id: collaboration
+  name: Collaboration
+- id: automation
+  name: Automation

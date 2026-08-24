@@ -1,0 +1,23 @@
+name: Palette Forge
+description: >-
+  A fictional colour-system generator used as demo data in the Ever Works demo directory. Not a real product.
+source_url: https://demo.ever.works/items/palette-forge
+category: Design
+tags:
+  - demo
+  - free-tier
+markdown: |-
+  ## Overview
+
+  Palette Forge is an **invented example listing** showing how a design tool would appear.
+
+  ## Features
+
+  - Accessible contrast checking
+  - Export to design tokens
+  - Light and dark ramps
+
+  ## Note
+
+  This is demo content. Palette Forge does not exist.
+updated_at: 2026-08-24 08:45

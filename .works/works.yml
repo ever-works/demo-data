@@ -1,0 +1,32 @@
+company_name: Ever Works
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+version: 0.1.0
+name: Ever Works Demo Directory
+initial_prompt: >-
+  A demonstration directory for the Ever Works platform, populated with
+  fictional example listings so every feature (search, categories, tags,
+  detail pages, submissions, pricing) can be explored safely.
+website_repo: ever-works/directory-web-template
+company_website: https://demo.ever.works
+settings:
+  homepage:
+    hero_enabled: true
+    hero_badge_text: Live Demo — Fictional Data
+    hero_title: Build Your Directory With
+    hero_title_gradient: Ever Works
+    hero_description: >-
+      This is the Ever Works demo directory. Every listing below is invented for
+      demonstration purposes — nothing here is a real product or company. Browse
+      the categories, try the search, open a listing, and see what your own
+      directory could look like.
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
+auth:
+  credentials: true

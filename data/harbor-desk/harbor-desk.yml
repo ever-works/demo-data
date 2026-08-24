@@ -1,0 +1,23 @@
+name: Harbor Desk
+description: >-
+  A fictional shared inbox and helpdesk tool used as demo data. Not a real product.
+source_url: https://demo.ever.works/items/harbor-desk
+category: Productivity
+tags:
+  - demo
+  - collaboration
+markdown: |-
+  ## Overview
+
+  Harbor Desk is an **invented example listing** demonstrating a second entry in Productivity.
+
+  ## Features
+
+  - Shared team inbox
+  - Canned replies
+  - SLA timers
+
+  ## Note
+
+  This is demo content. Harbor Desk does not exist.
+updated_at: 2026-08-24 08:45

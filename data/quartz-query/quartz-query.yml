@@ -1,0 +1,24 @@
+name: Quartz Query
+description: >-
+  A fictional database client used as demo data in the Ever Works demo directory. Not a real product.
+source_url: https://demo.ever.works/items/quartz-query
+category: Developer Tools
+tags:
+  - demo
+  - open-source
+  - self-hosted
+markdown: |-
+  ## Overview
+
+  Quartz Query is an **invented example listing** for the Developer Tools category.
+
+  ## Features
+
+  - Multi-engine connections
+  - Query history and sharing
+  - Read-only safe mode
+
+  ## Note
+
+  This is demo content. Quartz Query does not exist.
+updated_at: 2026-08-24 08:45
