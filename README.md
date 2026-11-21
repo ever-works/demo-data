@@ -1,12 +1,12 @@
-# demo-data — content of the directory template's demo
+# demo-data — content of the former directory-template demo
 
 Data repository of the **directory-web-template demo deployment** of
-[Ever Works](https://ever.works) (Kubernetes namespaces `ever-works-demo-*`).
-That deployment used to serve https://demo.ever.works. The address now
-belongs to the **Ever Works platform demo** (a private sandbox of the
-platform itself), and the template's live example is
-**https://dir.ever.works**, a directory the platform built from the
-template.
+[Ever Works](https://ever.works) (Kubernetes namespaces `ever-works-demo-*`),
+which used to serve https://demo.ever.works.
+
+**The template demo now lives at https://dir.ever.works**, a directory the
+Ever Works platform built from the template. https://demo.ever.works is now
+the **Ever Works platform demo** (a private sandbox of the platform itself).
 
 > ⚠️ **Every listing in this repository is FICTIONAL.** The products and
 > companies described here do not exist. Nothing in `data/` is a review of, or a
@@ -30,5 +30,7 @@ the template. `category` must match a `name` in `categories.yml`; each tag must
 match an `id` in `tags.yml`. Keep new entries clearly fictional.
 
 The template demo deployment clones this repo at runtime, so changes appear
-after its pods restart. It is scaled to 0 since the platform demo took over
-demo.ever.works; it is kept, not deleted, and can be scaled back up.
+after its pods restart. It is scaled to 0 in all three environments since the
+platform demo took over demo.ever.works (and demodev / demostage); it is kept,
+not deleted, and can be scaled back up. The template demo itself is
+https://dir.ever.works; there are no separate dev or stage template demo hosts.
